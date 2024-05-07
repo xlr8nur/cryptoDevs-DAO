@@ -5,4 +5,4 @@ CryptoDEVS DAO Project
 - Project link;
 https://crypto-devs-dao-iota.vercel.app/
 
-https://github.com/xlr8nur/cryptoDevs-DAO/issues/1#issue-2283256395
+![cryptodevs](https://github.com/xlr8nur/cryptoDevs-DAO/assets/97341887/7c5dc262-3555-4014-886d-a2953494f2bd)
