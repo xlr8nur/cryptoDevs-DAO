@@ -4,3 +4,5 @@ CryptoDEVS DAO Project
 - Buy CryptoDevs NFT, create proposals and see your NFT balances.
 - Project link;
 https://crypto-devs-dao-iota.vercel.app/
+
+https://github.com/xlr8nur/cryptoDevs-DAO/issues/1#issue-2283256395
